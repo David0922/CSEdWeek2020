@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/CSEdWeek2020/static/js/main.35bec589.chunk.js",
+    "main.js.map": "/CSEdWeek2020/static/js/main.35bec589.chunk.js.map",
+    "runtime-main.js": "/CSEdWeek2020/static/js/runtime-main.16a2b4c7.js",
+    "runtime-main.js.map": "/CSEdWeek2020/static/js/runtime-main.16a2b4c7.js.map",
+    "static/js/2.309554ca.chunk.js": "/CSEdWeek2020/static/js/2.309554ca.chunk.js",
+    "static/js/2.309554ca.chunk.js.map": "/CSEdWeek2020/static/js/2.309554ca.chunk.js.map",
+    "index.html": "/CSEdWeek2020/index.html",
+    "static/js/2.309554ca.chunk.js.LICENSE.txt": "/CSEdWeek2020/static/js/2.309554ca.chunk.js.LICENSE.txt",
+    "static/media/d.4e7fcedf.png": "/CSEdWeek2020/static/media/d.4e7fcedf.png",
+    "static/media/e.239d7bae.png": "/CSEdWeek2020/static/media/e.239d7bae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a2b4c7.js",
+    "static/js/2.309554ca.chunk.js",
+    "static/js/main.35bec589.chunk.js"
+  ]
+}
